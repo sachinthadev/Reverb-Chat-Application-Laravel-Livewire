@@ -45,7 +45,7 @@ php artisan queue:work
 ## Demo video
 
 <div style="position: relative; width: 400px; height: 225px; overflow: hidden;">
-    <img src="https://github.com/user-attachments/assets/dd15d0c2-f7ab-4e03-845e-89bdee6af856" alt="Video Title" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="https://youtu.be/YJKfQJpEWps?si=hIAkY-Qt5IwzmAkT" alt="Video Title" style="width: 100%; height: 100%; object-fit: cover;">
     <a href="https://youtu.be/YJKfQJpEWps?si=AgtzyVzDs9Kvrv9T" target="_blank" style="position: relative; top: 50%; left: 50%; transform: translate(-50%, -50%); display: block; width: 64px; height: 64px; background: url('https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg') no-repeat center center; background-size: contain; opacity: 0; transition: opacity 0.3s;">
         <div style="width: 100%; height: 100%;"></div>
     </a>
