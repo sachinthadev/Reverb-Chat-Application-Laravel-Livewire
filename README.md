@@ -1,3 +1,58 @@
+
+![chat](https://github.com/user-attachments/assets/dd15d0c2-f7ab-4e03-845e-89bdee6af856)
+
+## Install
+1.Clone the project
+```sh
+https://github.com/sachinthadev/Reverb-Chat-Application-Laravel-Livewire.git
+```
+2. Create .env file
+```sh
+cp .env.example .env
+```
+3.Execute
+```sh
+composer install
+```
+4.Execute
+```sh
+npm install
+```
+5.Set application key
+```sh
+php artisan key:generate --ansi
+```
+6.Execute migrations and seed data
+```sh
+php artisan migrate --seed
+```
+7.Start vite server
+```sh
+npm run dev
+```
+8.Start artisan server
+```sh
+php artisan serve
+```
+9.start reverb channel
+```sh
+php artisan reverb:start
+```
+10. run queue
+```sh
+php artisan queue:work
+```
+## Demo video
+
+<div style="position: relative; width: 400px; height: 225px; overflow: hidden;">
+    <img src="https://github.com/user-attachments/assets/dd15d0c2-f7ab-4e03-845e-89bdee6af856" alt="Video Title" style="width: 100%; height: 100%; object-fit: cover;">
+    <a href="https://youtu.be/YJKfQJpEWps?si=AgtzyVzDs9Kvrv9T" target="_blank" style="position: relative; top: 50%; left: 50%; transform: translate(-50%, -50%); display: block; width: 64px; height: 64px; background: url('https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg') no-repeat center center; background-size: contain; opacity: 0; transition: opacity 0.3s;">
+        <div style="width: 100%; height: 100%;"></div>
+    </a>
+</div>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
